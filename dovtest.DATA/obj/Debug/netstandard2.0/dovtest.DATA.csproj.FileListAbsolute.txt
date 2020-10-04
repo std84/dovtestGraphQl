@@ -1,0 +1,12 @@
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\bin\Debug\netstandard2.0\dovtest.DATA.deps.json
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\bin\Debug\netstandard2.0\dovtest.DATA.dll
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\bin\Debug\netstandard2.0\dovtest.DATA.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\bin\Debug\netstandard2.0\dovtest.MODAL.dll
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\bin\Debug\netstandard2.0\dovtest.MODAL.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.csprojAssemblyReference.cache
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.AssemblyInfoInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.AssemblyInfo.cs
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.csproj.CopyComplete
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.dll
+C:\xampp\htdocs\eighttest\DOVTEST.DATA\obj\Debug\netstandard2.0\dovtest.DATA.pdb

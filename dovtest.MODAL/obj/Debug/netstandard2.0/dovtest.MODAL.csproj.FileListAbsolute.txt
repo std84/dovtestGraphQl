@@ -1,0 +1,9 @@
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\bin\Debug\netstandard2.0\dovtest.MODAL.deps.json
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\bin\Debug\netstandard2.0\dovtest.MODAL.dll
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\bin\Debug\netstandard2.0\dovtest.MODAL.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.csprojAssemblyReference.cache
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.AssemblyInfo.cs
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.dll
+C:\xampp\htdocs\eighttest\DOVTEST.MODAL\obj\Debug\netstandard2.0\dovtest.MODAL.pdb

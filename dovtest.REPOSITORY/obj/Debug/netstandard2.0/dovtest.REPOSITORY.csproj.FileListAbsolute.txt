@@ -1,0 +1,14 @@
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.REPOSITORY.deps.json
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.REPOSITORY.dll
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.REPOSITORY.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.DATA.dll
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.MODAL.dll
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.MODAL.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.repository\bin\Debug\netstandard2.0\dovtest.DATA.pdb
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.csprojAssemblyReference.cache
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.AssemblyInfoInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.AssemblyInfo.cs
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.csproj.CopyComplete
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.dll
+C:\xampp\htdocs\eighttest\DOVTEST.repository\obj\Debug\netstandard2.0\dovtest.REPOSITORY.pdb
